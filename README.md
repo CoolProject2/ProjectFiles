@@ -1,5 +1,5 @@
 ProjectFiles
-============
+===========
 Project title
 "Wikipedia Category Cruncher"
 
