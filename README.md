@@ -17,6 +17,7 @@ Technologies used
 HTML, HTML5, CSS3, CSS, InDesign, Wikipedia API
 
 Link to demo version
+NEED THIS
 
 Known bugs
 The project needs a lot of research on the most effective way to get the best results.  Right now, it's not perfectly giving good results.  There would need to be some NLP and in-depth testing. 
