@@ -1,23 +1,14 @@
-ProjectFiles
-===========
-Project title
-"Wikipedia Category Cruncher"
 
+README
 
-Project description
-The goal was to address the problem in metacrap that "people are lazy" by trying to prevent "orphan articles" from occuring. The problem is that on Wikipedia, people have been lazy for a long time, categorizing on the fly what they THINK their article is about.  The object of this is to take their summary sentence, the first sentence of their article that is supposed to be well thought out and effective and mine the sentence for key words, associate those words to existing categories and select the categories they would like to apply to their article.  Once they've gone through and selected which they'd like to use, they receive basically what they need to copy and paste into their Wikipedia categories. 
+Project title: "Wikipedia Category Cruncher"
+=========================================
+Project description: The goal was to address the problem of “orphan articles” that occur in Wikipedia because, as described in metacrap,"people are lazy." The problem is that on Wikipedia, people (authors) have been lazy for a long time, categorizing on the fly what they THINK their article is about. This application takes an article’s summary sentence, the first sentence which is supposed to be well thought out and effective, and mines the sentence for key words, associates those words to existing categories and selects categories that potentially apply to the article. Once the author(s) has gone through and selected which categories they would like to use, they receive basically what they need to copy and paste into their Wikipedia categories.
 
+Team members and roles: Sydney- Design, CSS, Conceptualizing; Jason- Javascript, Jquery, CSS, HTML; Ankita- Concept contribution_____
 
-Team members and roles
-Sydney: Design, CSS, Conceptualizing
-Jason: Javascript, Jquery, CSS, HTML (all very masterful)
-Ankita: Concept contribution
+Technologies used: HTML, HTML5, CSS3, CSS, InDesign, Wikipedia API
 
-Technologies used
-HTML, HTML5, CSS3, CSS, InDesign, Wikipedia API
+Link to demo version: http://rbbt.github.io/wikicategorizer/
 
-Link to demo version
-NEED THIS
-
-Known bugs
-The project needs a lot of research on the most effective way to get the best results.  Right now, it's not perfectly giving good results.  There would need to be some NLP and in-depth testing. 
+Known bugs: The project needs more research on the most effective way to get the best results. Right now, it's not perfectly giving good results. There would need to be some NLP and in-depth testing.
