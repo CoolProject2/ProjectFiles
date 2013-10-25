@@ -7,6 +7,8 @@ Project description: The goal was to address the problem of â€œorphan articlesâ€
 
 Team members and roles: Sydney- Design, CSS, Conceptualizing; Jason- Javascript, Jquery, CSS, HTML; Ankita- Concept contribution_____
 
+people.ischool.berkeley.edu/~sydney/
+
 Technologies used: HTML, HTML5, CSS3, CSS, InDesign, Wikipedia API
 
 
