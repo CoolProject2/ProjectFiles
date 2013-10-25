@@ -9,6 +9,5 @@ Team members and roles: Sydney- Design, CSS, Conceptualizing; Jason- Javascript,
 
 Technologies used: HTML, HTML5, CSS3, CSS, InDesign, Wikipedia API
 
-Link to demo version: http://rbbt.github.io/wikicategorizer/
 
 Known bugs: The project needs more research on the most effective way to get the best results. Right now, it's not perfectly giving good results. There would need to be some NLP and in-depth testing.
